@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/logo-fond-fonce.svg">
+    <img src="images/logo-fond-clair.svg" alt="Blue Box Labs" width="340">
+  </picture>
+</p>
+
 # Blue Box DAW
 
 Un logiciel de mixage pour Windows, simple à prendre en main. On ouvre les pistes séparées d'un morceau (voix, batterie, basse, guitares…), on règle chaque piste, on écoute, on exporte le mix.
